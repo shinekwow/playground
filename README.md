@@ -1,6 +1,5 @@
 playground
 ==========
-
-just for fun
-
-> Hello,world
+just for funny!
+> Hello, GitHub
+> 你好，github
